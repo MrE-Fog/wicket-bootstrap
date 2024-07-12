@@ -81,7 +81,7 @@
         <popperjs.version>1.14.1</popperjs.version>
         <servlet-api.version>3.1.0</servlet-api.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <wicket.version>9.3.0</wicket.version>
+        <wicket.version>9.18.0</wicket.version>
         <wicketstuff.version>9.3.0</wicketstuff.version>
         <yuicompressor.version>2.4.8</yuicompressor.version>
 
